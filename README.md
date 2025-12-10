@@ -2,7 +2,9 @@
 
 A real-time audio processing pipeline that integrates Qualtrics XM web surveys with Google Cloud Platform services to capture, transcribe, and score spoken responses.
 
-![Alt text](images/Datapipeline.png)
+<p align="center">
+  <img src="images/Datapipeline.png" alt="Alt text">
+</p>
 
 ## Overview
 
