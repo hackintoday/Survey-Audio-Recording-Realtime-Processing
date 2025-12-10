@@ -34,6 +34,10 @@ This pipeline collects spoken responses through Qualtrics surveys and automatica
    
    The dashboard is hosted on Shinyapps.io, providing a more flexible and user-friendly alternative to Qualtrics' built-in visualization tools. Note that the application loads on-demand when the URL is visited, which may result in initial loading delays as it fetches and processes data.
 
+<p align="center">
+  <img src="images/Shiny application image.jpg" alt="Alt text">
+</p>
+
 ## Key Features
 
 - Real-time audio processing without expensive Qualtrics storage fees
